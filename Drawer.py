@@ -34,5 +34,5 @@ def create_attractor(iterations, dt):
     return attr
 
 
-attractor = create_attractor(50000, .01)
-draw(attractor, 800, 800, "test")
+attractor = create_attractor(25000, .01)
+draw(attractor, 600, 600, "test")
