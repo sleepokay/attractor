@@ -1,5 +1,5 @@
 # Strange Attractor Project
-![](https://github.com/sleepokay/attractor/blob/master/media/lorenz.gif)
+![](https://github.com/sleepokay/attractor/blob/master/media/intro.gif)
 
 A strange attractor project in Python 3. At the moment it is a gif maker. 
 
